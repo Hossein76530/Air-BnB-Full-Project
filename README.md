@@ -18,3 +18,27 @@ Key Insights
 - Entire homes/apartments are significantly more expensive than private rooms
 - Availability varies depending on location and property type
 - Some areas show higher demand based on listing frequency and pricing patterns
+
+📂 Dataset
+
+The dataset used in this project contains Airbnb listings data including:
+
+Price
+Location
+Room type
+Availability
+Reviews
+
+(You can add dataset source here if needed)
+
+🎯 Project Purpose
+
+The main objective of this project is to demonstrate practical data analysis skills by:
+
+Extracting insights from real-world data
+Building interactive dashboards
+Communicating findings effectively
+🚀 Future Improvements
+Adding predictive analysis (price prediction using ML)
+Integrating Python for deeper analysis
+Expanding dataset for more accurate insights
