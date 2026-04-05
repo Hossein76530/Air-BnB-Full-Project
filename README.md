@@ -23,22 +23,20 @@ Key Insights
 
 The dataset used in this project contains Airbnb listings data including:
 
-Price
-Location
-Room type
-Availability
-Reviews
-
-(You can add dataset source here if needed)
+- Price
+- Location
+- Room type
+- Availability
+- Reviews
 
 🎯 Project Purpose
 
 The main objective of this project is to demonstrate practical data analysis skills by:
 
-Extracting insights from real-world data
-Building interactive dashboards
-Communicating findings effectively
+- Extracting insights from real-world data
+- Building interactive dashboards
+- Communicating findings effectively
 🚀 Future Improvements
-Adding predictive analysis (price prediction using ML)
-Integrating Python for deeper analysis
-Expanding dataset for more accurate insights
+- Adding predictive analysis (price prediction using ML)
+- Integrating Python for deeper analysis
+- Expanding dataset for more accurate insights
