@@ -36,7 +36,9 @@ The main objective of this project is to demonstrate practical data analysis ski
 - Extracting insights from real-world data
 - Building interactive dashboards
 - Communicating findings effectively
+
 🚀 Future Improvements
+
 - Adding predictive analysis (price prediction using ML)
 - Integrating Python for deeper analysis
 - Expanding dataset for more accurate insights
