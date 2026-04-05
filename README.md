@@ -12,3 +12,9 @@ The results are visualized through an interactive Tableau dashboard for better u
 
 🔗 Live Dashboard (Tableau Public):
 https://public.tableau.com/views/AirBnBfullProject_17753820452910/Dashboard1
+
+Key Insights
+- Listings in central locations tend to have higher prices
+- Entire homes/apartments are significantly more expensive than private rooms
+- Availability varies depending on location and property type
+- Some areas show higher demand based on listing frequency and pricing patterns
