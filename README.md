@@ -3,10 +3,10 @@ This project presents an interactive data analysis of Airbnb listings using Tabl
 
 In this project, Airbnb dataset has been analyzed to uncover meaningful insights about:
 
-#Price distribution across different locations
-#Relationship between room types and pricing
-#Availability patterns throughout the year
-#Impact of location on listing performance
+- Price distribution across different locations
+- Relationship between room types and pricing
+- Availability patterns throughout the year
+- Impact of location on listing performance
 
 The results are visualized through an interactive Tableau dashboard for better understanding and decision-making.
 
