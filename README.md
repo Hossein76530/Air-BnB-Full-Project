@@ -9,3 +9,6 @@ In this project, Airbnb dataset has been analyzed to uncover meaningful insights
 #Impact of location on listing performance
 
 The results are visualized through an interactive Tableau dashboard for better understanding and decision-making.
+
+🔗 Live Dashboard (Tableau Public):
+https://public.tableau.com/views/AirBnBfullProject_17753820452910/Dashboard1
